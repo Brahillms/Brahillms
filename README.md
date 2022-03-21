@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brahillms
-- 👀 I’m interested in Python, JavaScript, HTML, CSS, etc.
+- 👀 I’m interested in Python, JavaScript, HTML, CSS, XML, etc.
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
